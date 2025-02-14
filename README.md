@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Linux Command MCP (Model Context Protocol)
 
 ## Overview
@@ -124,3 +125,7 @@ Example workflow:
 ## Contact
 
 [Your contact information]
+=======
+# linux-command-mcp
+MCP server and client for running Linux commands
+>>>>>>> 23ee9e0deb3d11eb3cfb877081e3dbcf23662447
