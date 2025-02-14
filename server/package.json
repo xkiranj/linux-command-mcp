@@ -1,0 +1,22 @@
+{
+  "name": "linux-command-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.5.0",
+    "zod": "^3.24.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "postbuild": "chmod +x dist/index.js",
+    "start": "node dist/index.js",
+    "pm2:start": "pm2 start ecosystem.config.cjs",
+    "pm2:stop": "pm2 stop linux-command-mcp-server",
+    "pm2:restart": "pm2 restart linux-command-mcp-server",
+    "pm2:logs": "pm2 logs linux-command-mcp-server"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.2"
+  }
+}
