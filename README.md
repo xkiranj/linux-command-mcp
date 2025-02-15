@@ -45,18 +45,6 @@ The MCP servers are configured in the `claude_desktop_config.json` file, typical
 - Verify file permissions
 - Ensure the specified file is executable
 
-## Server Types in MCP
-
-1. **Linux Command Server**: Execute shell commands
-2. **Filesystem Server**: Access file system
-3. **Brave Search Server**: Perform web searches
-4. **Puppeteer Server**: Web automation
-5. **GitHub Server**: GitHub interactions
-6. **Memory Server**: Memory-based operations
-7. **Sequential Thinking Server**: Advanced reasoning
-8. **Time Server**: Time-related operations
-9. **Git Server**: Git repository interactions
-
 ## Prerequisites
 
 - Node.js (v18.x or later)
