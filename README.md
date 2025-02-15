@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Linux Command MCP (Model Context Protocol)
 
 ## Overview
@@ -121,15 +119,12 @@ Example workflow:
 
 ## License
 
-[Specify your license here]
+MIT License
 
 ## Contact
 
-[Your contact information]
+xkiranj.1980@gmail.com
 =======
 # linux-command-mcp
 MCP server and client for running Linux commands
->>>>>>> 23ee9e0deb3d11eb3cfb877081e3dbcf23662447
-=======
 
->>>>>>> 5cad0762888f7eafc4e01199b2dc8a91d7e93938
