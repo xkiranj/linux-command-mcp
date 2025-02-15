@@ -213,7 +213,8 @@ MIT license
 
 ## Contact
 
-Email: xkiranj.1980@gmail.com
-Blockchain: 0xkiran.eth
-	Ethereum: 0x67F367edb83d8fdF48E7E7Cfcb35183e746c292c
-	Bitcoin: bc1q688np092y8raxag5e6573chrcgck5756yv476v
+- Email: xkiranj.1980@gmail.com
+- Blockchain: 0xkiran.eth
+
+	- Ethereum: 0x67F367edb83d8fdF48E7E7Cfcb35183e746c292c	
+	- Bitcoin: bc1q688np092y8raxag5e6573chrcgck5756yv476v
