@@ -89,12 +89,19 @@ npm run pm2:start
 
 ### Using the Client
 
+Available Commands:
+1. exec <command>   - Execute a Linux command
+2. list [directory] - List directory contents
+3. help             - Show this help
+4. exit             - Exit the client
+
 Execute commands directly:
 ```bash
 # In the client directory
-npm start "ls -l"
-npm start "list /home"
-npm start "uname -a"
+npm start 
+exec "ls -l"
+exec "list /home"
+exec "uname -a"
 ```
 
 ### Sudo Commands
@@ -202,8 +209,11 @@ Improve and expand the Linux Command MCP by:
 
 ## License
 
-[Specify your license here]
+MIT license
 
 ## Contact
 
-[Your contact information]
+Email: xkiranj.1980@gmail.com
+Blockchain: 0xkiran.eth
+	Ethereum: 0x67F367edb83d8fdF48E7E7Cfcb35183e746c292c
+	Bitcoin: bc1q688np092y8raxag5e6573chrcgck5756yv476v
